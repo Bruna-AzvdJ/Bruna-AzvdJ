@@ -18,4 +18,5 @@ Inclui organização de tarefas, comunicação profissional e controle de produt
 
 📍 Desenvolvido por [Bruna Santos de Azevedo](https://www.linkedin.com/in/bruna-joaquim-948188349)  
 🎯 Aluna de Gestão da Tecnologia da Informação – UNIP  
-📬 Contato via e-mail ou LinkedIn
+📬 Contato via e-mail, LinkedIn ou WhatsApp: +55 (11) 966929284
+
